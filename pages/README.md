@@ -1,0 +1,1 @@
+# Soy la pagina inicial de la carpeta "pages"
